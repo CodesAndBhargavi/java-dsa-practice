@@ -1,2 +1,2 @@
-# java-dsa-practice
+# Java-DSA-Practice
 Java data structures &amp; algorithms practice
